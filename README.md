@@ -12,6 +12,9 @@ pip install -r requirements.txt
 
 python treinar.py                                    # treina e avalia
 python treinar.py --prever "Adorei o produto, chegou rápido"
+
+#para rodar em modo interativo use o comando:
+python treinar.py --interativo
 ```
 
 ## Sobre os dados
