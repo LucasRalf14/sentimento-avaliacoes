@@ -1,0 +1,35 @@
+texto,sentimento
+"Produto excelente, chegou antes do prazo e superou minhas expectativas",positivo
+"Adorei a qualidade, recomendo para todo mundo",positivo
+"Muito bom, vale cada centavo",positivo
+"Atendimento rápido e atencioso, fiquei muito satisfeito",positivo
+"Ótimo custo benefício, comprarei novamente",positivo
+"A embalagem veio perfeita e o produto funciona muito bem",positivo
+"Fantástico, melhor compra que fiz este ano",positivo
+"Entrega rápida e produto igual ao anunciado",positivo
+"Superou o que eu esperava, qualidade incrível",positivo
+"Gostei bastante, material resistente e acabamento bonito",positivo
+"Estou muito feliz com a compra, tudo perfeito",positivo
+"Funciona perfeitamente e é muito fácil de usar",positivo
+"Loja confiável, o produto chegou em perfeito estado",positivo
+"Maravilhoso, minha família adorou",positivo
+"Excelente, cumpriu tudo o que prometeu",positivo
+"Produto horrível, quebrou no primeiro dia de uso",negativo
+"Péssima qualidade, não recomendo a ninguém",negativo
+"A entrega atrasou mais de duas semanas e ninguém respondeu",negativo
+"Veio com defeito e o suporte não resolveu nada",negativo
+"Dinheiro jogado fora, muito decepcionado",negativo
+"O produto é diferente do anunciado, me senti enganado",negativo
+"Atendimento péssimo, fui ignorado várias vezes",negativo
+"Chegou quebrado e a embalagem estava toda rasgada",negativo
+"Não funciona, tentei de tudo e continua com problema",negativo
+"Muito ruim, material fraco e acabamento malfeito",negativo
+"Pior compra da minha vida, quero meu dinheiro de volta",negativo
+"Demorou demais e ainda veio faltando peça",negativo
+"Não vale o preço, qualidade bem abaixo do esperado",negativo
+"Estou arrependido, o produto parou de funcionar em uma semana",negativo
+"Terrível, nunca mais compro nesta loja",negativo
+"Comprarei mais",positivo
+"Linda cor", positivo
+"Material Excelente", positivo
+
